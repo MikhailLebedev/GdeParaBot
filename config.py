@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-token = '356262363:AAFhDqmwFdkJF7a1b1Y9eEhCqGznTDNdF5M'
-
 aboutbot = '''
 <b>Student help bot
 by CMC MSU
